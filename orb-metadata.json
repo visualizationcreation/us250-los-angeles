@@ -1,0 +1,194 @@
+{
+  "id": "us250-los-angeles",
+  "title": "Los Angeles — Many beginnings, Pacific futures",
+  "summary": "Read the city through changing borders, water, arrival and creative work. Eight points connect El Pueblo, Little Tokyo and community art with landscapes beyond the skyline.",
+  "collection": "America at 250 — Four Cities, Many Stories",
+  "pointCount": 8,
+  "language": "en",
+  "canonical": null,
+  "publicationStatus": "prepared",
+  "idMapping": [
+    {
+      "draftId": "us250-los-angeles.p01",
+      "id": "us250-los-angeles-p01"
+    },
+    {
+      "draftId": "us250-los-angeles.p02",
+      "id": "us250-los-angeles-p02"
+    },
+    {
+      "draftId": "us250-los-angeles.p03",
+      "id": "us250-los-angeles-p03"
+    },
+    {
+      "draftId": "us250-los-angeles.p04",
+      "id": "us250-los-angeles-p04"
+    },
+    {
+      "draftId": "us250-los-angeles.p05",
+      "id": "us250-los-angeles-p05"
+    },
+    {
+      "draftId": "us250-los-angeles.p06",
+      "id": "us250-los-angeles-p06"
+    },
+    {
+      "draftId": "us250-los-angeles.p07",
+      "id": "us250-los-angeles-p07"
+    },
+    {
+      "draftId": "us250-los-angeles.p08",
+      "id": "us250-los-angeles-p08"
+    }
+  ],
+  "sourceRegister": [
+    {
+      "id": "pueblo",
+      "title": "El Pueblo de Los Angeles Historical Monument",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/places/el-pueblo-de-los-angeles-historical-monument.htm",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "tongva",
+      "title": "History",
+      "publisher": "Gabrielino-Tongva Indian Tribe",
+      "url": "https://gabrielinotribe.org/history/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "treaty",
+      "title": "Treaty of Guadalupe Hidalgo (1848)",
+      "publisher": "National Archives",
+      "url": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "water",
+      "title": "Water System — Past and Present",
+      "publisher": "Los Angeles Department of Water and Power",
+      "url": "https://www.ladwp.com/who-we-are/our-history/water-system-past-and-present",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "owens",
+      "title": "Water & Land History",
+      "publisher": "Owens Valley Indian Water Commission",
+      "url": "https://www.oviwc.org/water-land-history",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "union",
+      "title": "History",
+      "publisher": "Los Angeles Union Station",
+      "url": "https://unionstationla.com/history/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "chinatown",
+      "title": "The Building",
+      "publisher": "Chinese American Museum, Los Angeles",
+      "url": "https://camla.org/the-building/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "motown",
+      "title": "Esther Gordy Edwards",
+      "publisher": "Motown Museum",
+      "url": "https://www.motownmuseum.org/about/esther-gordy/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "tokyo",
+      "title": "BeHere / 1942",
+      "publisher": "Japanese American National Museum",
+      "url": "https://www.janm.org/exhibits/behere1942",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "wall",
+      "title": "The Great Wall of Los Angeles and the Interpretive Green Bridge",
+      "publisher": "SPARC",
+      "url": "https://sparcinla.org/wp-content/uploads/downloads/GreenBridgeBooklet.pdf",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "taylor",
+      "title": "Paseo Del Rio at Taylor Yard Project",
+      "publisher": "City of Los Angeles Bureau of Engineering",
+      "url": "https://engineering.lacity.gov/about-us/divisions/environmental-management/projects/paseo-del-rio-taylor-yard-project",
+      "accessedAt": "2026-09-19"
+    }
+  ],
+  "sourcePointAssignments": [
+    {
+      "id": "us250-los-angeles-p01",
+      "sourceIds": [
+        "pueblo",
+        "tongva"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p02",
+      "sourceIds": [
+        "treaty"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p03",
+      "sourceIds": [
+        "water",
+        "owens"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p04",
+      "sourceIds": [
+        "union",
+        "chinatown"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p05",
+      "sourceIds": [
+        "motown"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p06",
+      "sourceIds": [
+        "tokyo"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p07",
+      "sourceIds": [
+        "wall"
+      ]
+    },
+    {
+      "id": "us250-los-angeles-p08",
+      "sourceIds": [
+        "taylor"
+      ]
+    }
+  ],
+  "authorship": "Original text authored with Codex for the owner; anonymous public credit.",
+  "media": {
+    "included": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Los_Angeles_Union_Station_22.jpg/960px-Los_Angeles_Union_Station_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Union_Station_22.jpg",
+        "title": "Los Angeles, California, USA. Snow-capped mountains in background.",
+        "caption": "Los Angeles Union Station. A modern view of the station and its rail approaches.",
+        "credit": "Basil D Soufi",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "node": "us250-los-angeles-p04",
+        "generated": false
+      }
+    ],
+    "generated": [],
+    "note": "One credited documentary image. No narration or video was supplied."
+  }
+}
