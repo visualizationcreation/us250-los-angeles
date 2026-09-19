@@ -5,7 +5,7 @@
   "collection": "America at 250 — Four Cities, Many Stories",
   "pointCount": 8,
   "language": "en",
-  "canonical": null,
+  "canonical": "https://orbiversity.com/us250-los-angeles/",
   "publicationStatus": "prepared",
   "idMapping": [
     {
@@ -177,7 +177,7 @@
   "media": {
     "included": [
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Los_Angeles_Union_Station_22.jpg/960px-Los_Angeles_Union_Station_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "src": "https://orbiversity.com/us250-los-angeles/photo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Union_Station_22.jpg",
         "title": "Los Angeles, California, USA. Snow-capped mountains in background.",
         "caption": "Los Angeles Union Station. A modern view of the station and its rail approaches.",
@@ -190,5 +190,86 @@
     ],
     "generated": [],
     "note": "One credited documentary image. No narration or video was supplied."
-  }
+  },
+  "checkedConnections": [
+    {
+      "sourcePoint": {
+        "id": "us250-los-angeles-p05",
+        "title": "Creative work crosses a city boundary"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "targetPoint": "us250-detroit-p05",
+      "relation": "documented connection",
+      "label": "Follow Motown’s move to Los Angeles",
+      "reason": "The Motown Museum records the company’s headquarters move to Los Angeles in 1972. Read the story from both ends of that route.",
+      "evidence": [
+        {
+          "url": "https://www.motownmuseum.org/about/esther-gordy/",
+          "title": "Esther Gordy Edwards"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-los-angeles-p03",
+        "title": "A city’s water reaches beyond the city"
+      },
+      "target": {
+        "id": "us250-new-orleans",
+        "url": "https://orbiversity.com/us250-new-orleans/",
+        "topic": "New Orleans — A river city that made an American sound"
+      },
+      "targetPoint": "us250-new-orleans-p07",
+      "relation": "contrast",
+      "label": "Different urban water problems",
+      "reason": "Contrast flood protection and Hurricane Katrina with the geography of Los Angeles water supply. The mechanisms and affected communities are different.",
+      "evidence": [
+        {
+          "url": "https://www.ladwp.com/who-we-are/our-history/water-system-past-and-present",
+          "title": "Water System — Past and Present"
+        },
+        {
+          "url": "https://www.oviwc.org/water-land-history",
+          "title": "Water & Land History"
+        },
+        {
+          "url": "https://louisianastatemuseum.org/exhibit/living-hurricanes-katrina-and-beyond",
+          "title": "Living with Hurricanes: Katrina and Beyond"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-los-angeles-p06",
+        "title": "A neighborhood holds memory"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "targetPoint": "us250-detroit-p06",
+      "relation": "comparison",
+      "label": "Remembering a disrupted community",
+      "reason": "Compare ways of preserving memory: Black Bottom’s neighborhood history and an exhibition about Japanese American incarceration. Urban clearance and wartime incarceration are not equivalent events.",
+      "evidence": [
+        {
+          "url": "https://www.janm.org/exhibits/behere1942",
+          "title": "BeHere / 1942"
+        },
+        {
+          "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/black-bottom-neighborhood",
+          "title": "Black Bottom Neighborhood"
+        },
+        {
+          "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/paradise-valley",
+          "title": "Paradise Valley"
+        }
+      ]
+    }
+  ]
 }

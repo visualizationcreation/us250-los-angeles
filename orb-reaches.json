@@ -1,4 +1,78 @@
 {
   "schemaVersion": 1,
-  "reaches": []
+  "reaches": [
+    {
+      "sourcePoint": {
+        "id": "us250-los-angeles-p05",
+        "title": "Creative work crosses a city boundary"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "relation": "documented connection",
+      "reason": "The Motown Museum records the company’s headquarters move to Los Angeles in 1972. Read the story from both ends of that route.",
+      "evidence": [
+        {
+          "url": "https://www.motownmuseum.org/about/esther-gordy/",
+          "title": "Esther Gordy Edwards"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-los-angeles-p03",
+        "title": "A city’s water reaches beyond the city"
+      },
+      "target": {
+        "id": "us250-new-orleans",
+        "url": "https://orbiversity.com/us250-new-orleans/",
+        "topic": "New Orleans — A river city that made an American sound"
+      },
+      "relation": "contrast",
+      "reason": "Contrast flood protection and Hurricane Katrina with the geography of Los Angeles water supply. The mechanisms and affected communities are different.",
+      "evidence": [
+        {
+          "url": "https://www.ladwp.com/who-we-are/our-history/water-system-past-and-present",
+          "title": "Water System — Past and Present"
+        },
+        {
+          "url": "https://www.oviwc.org/water-land-history",
+          "title": "Water & Land History"
+        },
+        {
+          "url": "https://louisianastatemuseum.org/exhibit/living-hurricanes-katrina-and-beyond",
+          "title": "Living with Hurricanes: Katrina and Beyond"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-los-angeles-p06",
+        "title": "A neighborhood holds memory"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "relation": "comparison",
+      "reason": "Compare ways of preserving memory: Black Bottom’s neighborhood history and an exhibition about Japanese American incarceration. Urban clearance and wartime incarceration are not equivalent events.",
+      "evidence": [
+        {
+          "url": "https://www.janm.org/exhibits/behere1942",
+          "title": "BeHere / 1942"
+        },
+        {
+          "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/black-bottom-neighborhood",
+          "title": "Black Bottom Neighborhood"
+        },
+        {
+          "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/paradise-valley",
+          "title": "Paradise Valley"
+        }
+      ]
+    }
+  ]
 }
